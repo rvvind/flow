@@ -1,0 +1,58 @@
+.state {
+  display: inline;
+  padding: .2em .6em .3em;
+  font-size: 75%;
+  font-weight: 700;
+  line-height: 1;
+  color: #fff;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: baseline;
+  border-radius: 1em;
+}
+
+.state-success {
+  background-color: #5cb85c;
+}
+
+.state-info {
+  background-color: #5bc0de;
+}
+
+.state-default {
+  background-color: #777;
+}
+
+.jumbotron-risk {
+  background-color:#FCDCDC;
+}
+
+.glyphicon-large {
+  font-size: 52px;
+  list-style: none;
+}
+
+ul {
+  margin-top: 0;
+  margin-bottom: -7px;
+}
+
+.background-info-light {
+  background-color: #B3B3B3;
+}
+
+.background-success-light {
+  background-color: #77FF77;
+}
+
+.left-border-success {
+  border-left: 5px solid #5cb85c;
+}
+
+.left-border-info {
+  border-left: 5px solid #5bc0de;
+}
+
+.font-white {
+  color: #FFFFFF;
+}
